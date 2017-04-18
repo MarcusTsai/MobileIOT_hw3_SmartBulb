@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

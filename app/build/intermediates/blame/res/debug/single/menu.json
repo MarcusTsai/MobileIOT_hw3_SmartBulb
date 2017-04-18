@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/menu/bridgelist.xml",
+        "source": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/src/main/res/menu/bridgelist.xml"
+    }
+]

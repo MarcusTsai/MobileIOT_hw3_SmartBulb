@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
+        "source": "/Users/mingchia/.android/build-cache/b65d7a9faaab9c8a0cd43e46268129a71b84a0fd/output/res/anim/snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/Users/mingchia/.android/build-cache/b65d7a9faaab9c8a0cd43e46268129a71b84a0fd/output/res/anim/fab_in.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/Users/mingchia/.android/build-cache/b65d7a9faaab9c8a0cd43e46268129a71b84a0fd/output/res/anim/fab_out.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
+        "source": "/Users/mingchia/.android/build-cache/b65d7a9faaab9c8a0cd43e46268129a71b84a0fd/output/res/anim/snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mingchia/.android/build-cache/150d58cbf023014e0c02a635d3c0fe3bf1d18829/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

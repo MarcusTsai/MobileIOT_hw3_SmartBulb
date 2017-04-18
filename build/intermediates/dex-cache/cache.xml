@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c91093ab60be848481757d75082a05aa3d6cfa25">
+        <dex dex="/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4adea0fad2ebdf955d0f6838e108049ce8d1015a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5045f48c2e0f4fa7398f21695fe98e1284a68565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/libs/huesdkresources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7183fbb86900448556ef87d3af0db01a77c27a09">
+        <dex dex="/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/huesdkresources_6b0d75e9d108806993369ff886f152b29a3cc0c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/libs/huelocalsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07362e192094e402e032db4407c86e36080340ab">
+        <dex dex="/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/huelocalsdk_ffef44d1d780f326ac56d77e3bc3bce7c3b52183/classes.dex" />
+    </item>
+
+</items>

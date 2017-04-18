@@ -1,0 +1,22 @@
+#Sun Apr 16 18:59:02 PDT 2017
+renamed.6=classes3.dex
+renamed.5=classes.dex
+renamed.4=classes7.dex
+renamed.3=classes4.dex
+renamed.2=classes5.dex
+renamed.1=classes2.dex
+renamed.0=classes6.dex
+base.6=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_825c4b490f2d8488e183248b9672ff664a26b6cd
+base.5=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29532e55322aa8920f72600458f2ba095b51e2dc
+base.4=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/huesdkresources_6b0d75e9d108806993369ff886f152b29a3cc0c7
+base.3=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_6ce3d30bae3409399b01e71cd929234d040fbf60
+base.2=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7d5034913b853917b3ff92b6c540f2f5e2e60f5a
+base.1=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4eb28d902545e23a21c8b0d1a0baf98f47024c20
+base.0=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/huelocalsdk_ffef44d1d780f326ac56d77e3bc3bce7c3b52183
+file.6=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_825c4b490f2d8488e183248b9672ff664a26b6cd/classes.dex
+file.5=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29532e55322aa8920f72600458f2ba095b51e2dc/classes.dex
+file.4=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/huesdkresources_6b0d75e9d108806993369ff886f152b29a3cc0c7/classes.dex
+file.3=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_6ce3d30bae3409399b01e71cd929234d040fbf60/classes.dex
+file.2=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7d5034913b853917b3ff92b6c540f2f5e2e60f5a/classes.dex
+file.1=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4eb28d902545e23a21c8b0d1a0baf98f47024c20/classes.dex
+file.0=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/huelocalsdk_ffef44d1d780f326ac56d77e3bc3bce7c3b52183/classes.dex

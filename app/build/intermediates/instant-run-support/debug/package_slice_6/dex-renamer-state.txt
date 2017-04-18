@@ -1,0 +1,4 @@
+#Sun Apr 16 18:59:03 PDT 2017
+base.0=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/mingchia/Desktop/CMUCourses/49788/Homework/Homework3/QuickStartApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex
